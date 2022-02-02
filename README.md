@@ -1,3 +1,0 @@
-# dotfiles
-
-For coder
